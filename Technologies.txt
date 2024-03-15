@@ -1,0 +1,5 @@
+1- Node.js
+2- Express.js
+3- Mongodb
+4- JWT (JSON Web Tokens)
+5- CORS & DOT ENV
